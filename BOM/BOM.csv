@@ -1,12 +1,24 @@
-Komponent;Cel / Przeznaczenie;Poziom;Szacowany Koszt;Przyk�adowy Link / �r�d�o
-Raspberry Pi 4 (4GB/8GB);Main controller & WiFi server. More RAM for complex RGB patterns.;High;~$60 - $75;Raspberry Pi 4 Model B (4GB/8GB)
-30kpps / 40kpps Galvo Set;High-speed scanners for smooth, complex RGB patterns.;Pro;~$130 - $150;40Kpps High Speed Galvo Scanner Set
-RGB Laser Module (Analog Mod.);Full-color laser (Red, Green, Blue) with 0-5V analog modulation inputs.;Pro;~$90 - $110;500mW RGB Full Color Laser Module Analog TTL
-3x MCP4922 (DIP-14);Multiple 12-bit DACs to handle 5 analog channels (X, Y, R, G, B).;Custom;~$10.00;MCP4922-E/P (DIP-14) Dual 12-bit DAC
-3x TL072 (DIP-8) + 2x CD4050BE;Dedicated Op-Amps for X/Y signal conditioning & Level Shifters for RGB.;Custom;~$5.00;Search: TL072 DIP-8 and CD4050BE
-Mean Well LRS-100-12 PSU;High quality, stable industrial power supply (12V or 24V primary).;Safety;~$20.00;Mean Well LRS-100-12 12V 8.5A PSU
-2020 Aluminum Frame + 3D Printed Parts;Hybrid chassis: Metal frame for rigidity, custom 3D printed mounts for optics & electronics.;Mech;~$20.00;2020 T-Slot Aluminum Extrusion Profile
-Custom 4-Layer PCB Manufacturing;For complex routing, better noise immunity, and integrated design.;Elec;~$20.00;4-Layer PCB Prototype Quote (PCBWay)
-Dichroic Safety Glass / IR Filter;Professional optical window for beam shaping and eye protection.;Safety;~$15.00;Laser Safety Window/Dichroic Filter
-Passives (Resistors/Caps/Connectors);Essential filtering, pull-ups, and reliable connectivity.;Basic;~$10.00;Resistor Capacitor Connector Kit Search
-TOTAL ESTIMATED PROJECT COST:;;;~$390 - $400;
+﻿Bill of Materials (BOM) - Zawartość koszyka;;;;
+;;;;
+Lp.;Nazwa Produktu;Ilość;Cena (PLN); Cena (USD) 
+1;10/50 sztuk złącza śrubowego PCB KF951 (9.5mm);1;5,29 zł; $1,43 
+2;10/50 sztuk złącza śrubowego PCB KF951 (9.5mm);1;6,52 zł; $1,76 
+3;100/400 sztuk 1% zestaw rezystorów 1/2W;1;15,42 zł; $4,16 
+4;10 sztuk zestawu układów scalonych (IC) 2.54 mm;1;3,75 zł; $1,01 
+5;10 sztuk wzmacniacza operacyjnego TL074C SOP-14;1;4,30 zł; $1,16 
+6;Przetwornica DC-DC obniżająca napięcie LM2596;1;4,79 zł; $1,29 
+7;Płytka Raspberry Pi Pico W (TYPE-C, RP2040);1;34,59 zł; $9,34 
+8;Zestaw kondensatorów ceramicznych (2pF - 0.1uF);1;10,99 zł; $2,97 
+9;420 sztuk zestawu złącz Dupont 2.54 mm;1;17,89 zł; $4,83 
+10;Kombinowany moduł laserowy 808 200MW/400MW;1;109,39 zł; $29,54 
+11;10 sztuk mosiężnych śrub dystansowych (M2-M8);1;4,79 zł; $1,29 
+12;50 sztuk tranzystorów (2N7002, 2N2222, 2N3904 itp.);1;5,55 zł; $1,50 
+13;Laser animacyjny 1W/2W do efektów scenicznych DIY;1;201,79 zł; $54,48 
+14;1 sztuka przetwornika A/C (MCP3424, MCP3428 itp.);1;4,02 zł; $1,09 
+;;;;
+Podsumowanie:;;;;
+;Suma produktów;;483,38 zł; $130,51 
+;Wysyłka;;57,70 zł; $15,58 
+;Szacowana suma;;541,08 zł; $146,09 
+;;;;
+;;;;
